@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Bigelow Rules', sans-serif;
+  font-size: 82px;
+  color: #0ccac4;
+  /* -webkit-text-stroke: .1px #c7c7c7; */
+  letter-spacing: 2px;
+  word-spacing: 2px;
+}
